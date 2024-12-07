@@ -19,7 +19,8 @@
 
 3. **Run the Script**:
    ```bash
-   python script.py
+   chmod +x format.py
+   python3 format.py
    ```
 
 4. **Output**:
