@@ -1,29 +1,3 @@
-Here's a properly formatted `README.md` file that will render perfectly on GitHub:
-
-```markdown
-# Proxy Formatter with Fancy ASCII Logo 🎨
-
-A Python script that reads a list of proxies from a file, formats them into a specific style, and saves the results to a new file. After the process, it displays a fancy ASCII art logo with your name!
-
----
-
-## Features ✨
-- Read proxies from an input file (`input_proxies.txt`).
-- Format proxies into a specific format (e.g., `"proxy",`) and save them to `formatted_proxies.txt`.
-- Display a progress bar animation during processing.
-- Show a custom ASCII art logo upon completion.
-
----
-
-## Requirements 📋
-
-Make sure you have Python installed on your system. You will also need the `tqdm` library for the progress bar animation. Install it using:
-
-```bash
-pip install tqdm
-```
-
----
 
 ## How to Use 🚀
 
