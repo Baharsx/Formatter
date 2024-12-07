@@ -1,5 +1,5 @@
 
-## How to Use 🚀
+## How to Use 
 
 1. **Clone the Repository**:
    ```bash
