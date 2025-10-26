@@ -32,4 +32,4 @@
 
 ## Author 🙋‍♂️
 
-Created with ❤️ by **SOHEIL DL**.
+Created with ❤️ by **SOHEIL SL**.
